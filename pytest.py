@@ -1,6 +1,3 @@
-import os
-
-
 def asd():
     a = 1
     b = 2
